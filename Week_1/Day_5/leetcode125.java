@@ -1,5 +1,5 @@
 //Week_1/Day_5/leetcode125.java
-class leetcode125{
+class Solution{
     public boolean isPalindrome(String s) {
         String rev="";
         String modified = "";
